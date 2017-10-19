@@ -1,2 +1,2 @@
 # mavenGit2
-JGitFlow Implementation
+JGitFlow Implementation 2
